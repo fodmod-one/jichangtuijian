@@ -2,7 +2,7 @@
 
 ## ⚡ 省流：按你的需求直接选
 
-- 🚀 **性价比看：[Flybit机场](#flybit)** — 15元/月用上标注IEPL的128GB套餐，**新用户有2GB免费试用，觉得好用再下单**。
+- 🚀 **性价比看：[Flybit机场](#flybit)** — 15元/月用上标注IEPL的128GB套餐，**新用户有2GB免费试用，觉得好用再下单**；优惠码 `flybit` 可享9折。
 - 🌟 **便宜量大看：[星辰机场（星辰云）](#xingchen-cloud)** — **最低8元/月**，推荐 **9.9元/月100GB** 或 **17元/月200GB（IEPL）**。
 - 🦆 **高端看：[CocoDuck](#cocoduck)** — 高端配置与家宽落地方向，**有免费试用，体验满意再购买**。
 - 📦 **按量计费看：[魔戒机场](#mojie)** — **常规套餐最低19.9元/次，130GB不限时流量**，适合低频使用和备用。
@@ -37,7 +37,7 @@
 **想用较低预算选到IEPL专线，可以先看 Flybit。** 月付15元包含128GB流量，套餐标注不限设备，同时还有一次性不限时流量包，日常主用和偶尔备用都能选。
 
 <p>
-<a href="https://www.fastfastfast.best/#/register?code=0clljXHZ"><img src="https://img.shields.io/badge/Flybit-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%202GB%20%E2%86%92-7C3AED?style=for-the-badge&amp;labelColor=24134B" alt="🚀 注册 Flybit · 免费试用2GB →" height="42" /></a>
+<a href="https://goflybit.com/#/register?code=0clljXHZ"><img src="https://img.shields.io/badge/Flybit-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8%202GB%20%E2%86%92-7C3AED?style=for-the-badge&amp;labelColor=24134B" alt="🚀 注册 Flybit · 免费试用2GB →" height="42" /></a>
 </p>
 
 > [!TIP]
