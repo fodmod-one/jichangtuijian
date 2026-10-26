@@ -1,4 +1,5 @@
 # ✨ 2026 VPN机场推荐与 VPN 套餐对比｜免费试用 / 性价比 / 专线 / 按量计费
+<img width="939" height="247" alt="image" src="https://github.com/user-attachments/assets/2a08960e-155e-4e13-9160-aa780366c412" />
 
 ## ⚡ 省流：按你的需求直接选
 
@@ -6,7 +7,6 @@
 - 🌟 **便宜量大看：[星辰机场（星辰云）](#xingchen-cloud)** — **最低8元/月**，推荐 **9.9元/月100GB** 或 **17元/月200GB（IEPL）**。
 - 🦆 **高端看：[CocoDuck](#cocoduck)** — 高端配置与家宽落地方向，**有免费试用，体验满意再购买**。
 - 📦 **按量计费看：[魔戒机场](#mojie)** — **常规套餐最低19.9元/次，130GB不限时流量**，适合低频使用和备用。
-<img width="1568" height="672" alt="image" src="https://github.com/user-attachments/assets/d0c92f88-d618-47da-b753-615b7c1f74d0" />
 
 ## 🏆 完整推荐榜单｜当前前六名
 
