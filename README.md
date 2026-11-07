@@ -36,9 +36,7 @@
 
 **想用较低预算选到IEPL专线，可以先看 Flybit。** 月付15元包含128GB流量，套餐标注不限设备，同时还有一次性不限时流量包，日常主用和偶尔备用都能选。
 
-<p>
-<a href="https://goflybit.com/#/register?code=0clljXHZ"><img src="https://img.shields.io/badge/Flybit-%E5%89%8D%E5%BE%80%E6%B3%A8%E5%86%8C%20%E2%86%92-7C3AED?style=for-the-badge&amp;labelColor=24134B" alt="🚀 注册 Flybit →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://goflybit.com/#/register?code=0clljXHZ)
 
 ### 📊 已有资料指标
 
@@ -75,9 +73,7 @@
 
 **想比较高端配置、家宽落地和多设备体验，可以试试 CocoDuck。** 现有资料主打海外团队、BGP中转与家宽落地，常规套餐标注全部节点可用、不限连接速度和设备数量，月付17元起。
 
-<p>
-<a href="https://www.cocoduck.site/auth/register?code=e2c254b876"><img src="https://img.shields.io/badge/CocoDuck-%E5%89%8D%E5%BE%80%E6%B3%A8%E5%86%8C%20%E2%86%92-0891B2?style=for-the-badge&amp;labelColor=083344" alt="🦆 注册 CocoDuck →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://www.cocoduck.site/auth/register?code=e2c254b876)
 
 ### 📊 已有资料指标
 
@@ -115,9 +111,7 @@
 
 **星辰云适合先看预算和流量：最低8元/月，含80GB。** 日常使用更推荐 **9.9元/月、100GB的入门版**；预算能到17元，则重点看 **17元/月、200GB的标准版**，资料标注有IEPL专线、原生IP和家宽IP。
 
-<p>
-<a href="https://c.kilxs.cn/?code=85pRyW98"><img src="https://img.shields.io/badge/%E6%98%9F%E8%BE%B0%E4%BA%91-%E6%9F%A5%E7%9C%8B%209.9%E5%85%83%20%2F%2017%E5%85%83%E5%A5%97%E9%A4%90%20%E2%86%92-EA580C?style=for-the-badge&amp;labelColor=431407" alt="🌟 注册星辰云 · 查看9.9元 / 17元套餐 →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://c.kilxs.cn/?code=85pRyW98)
 
 > [!TIP]
 > - 💰 **9.9元/月入门版：** 100GB/月，不限设备，适合低预算日常使用。
@@ -163,9 +157,7 @@
 
 **偏好老牌服务、愿意为高端专线配置多留预算，可以比较 WgetCloud。** 现有资料主打IEPL/IPLC专线，精品档覆盖全球29个节点。个人套餐能按月购买，99元/月起，价格明显高于前面几家。
 
-<p>
-<a href="https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm"><img src="https://img.shields.io/badge/WgetCloud-%E6%B3%A8%E5%86%8C%E6%9F%A5%E7%9C%8B%E6%96%B0%E7%94%A8%E6%88%B7%E4%BC%98%E6%83%A0%20%E2%86%92-B45309?style=for-the-badge&amp;labelColor=451A03" alt="👑 注册 WgetCloud · 查看新用户优惠 →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://invite.wgetcloud.ltd/auth/register?code=fZ0Rsm)
 
 > [!NOTE]
 > 🏷️ 现有资料标注 **新用户85折**，具体适用套餐和金额以结算页面为准。注册或首次登录可能需要设置 **2FA双重验证**，记得保存恢复信息。
@@ -202,9 +194,7 @@
 
 **迅达适合希望在月付和不限时流量之间灵活选择的用户。** 基础套15元/月含150GB，支持5台设备同时使用；更高档提供BGP或企业级跨境专线资料，并支持Clash、Shadowrocket、Stash、Surge等常见客户端。
 
-<p>
-<a href="https://sulianproxy.com/register?code=OmenSc0K"><img src="https://img.shields.io/badge/%E8%BF%85%E8%BE%BE-%E6%9F%A5%E7%9C%8B%E6%9C%88%E4%BB%98%E4%B8%8E%E4%B8%8D%E9%99%90%E6%97%B6%E5%A5%97%E9%A4%90%20%E2%86%92-D97706?style=for-the-badge&amp;labelColor=422006" alt="⚡ 注册迅达 · 查看月付与流量包 →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://sulianproxy.com/register?code=OmenSc0K)
 
 > [!NOTE]
 > 📬 购买页标注 **7×24小时工单支持**。线路权限和设备数量随套餐档位变化，建议先用月付档确认本地网络表现。
@@ -241,9 +231,7 @@
 
 **不想每个月续费，或者只需要一个备用，可以看看魔戒的按量流量包。** 常规套餐从 **19.9元/次、130GB** 起，页面标注不限到期时间、无节点倍率、不限设备数量，买到的是总流量额度。
 
-<p>
-<a href="https://74.82.196.10:8000/register?aff=edcgk25C"><img src="https://img.shields.io/badge/%E9%AD%94%E6%88%92-19.9%E5%85%83%E8%B4%AD%E4%B9%B0%20130GB%20%E2%86%92-E11D48?style=for-the-badge&amp;labelColor=4C0519" alt="📦 注册魔戒 · 19.9元起购买不限时流量 →" height="42" /></a>
-</p>
+[👉 点击进入官网 👈](https://74.82.196.10:8000/register?aff=edcgk25C)
 
 > [!NOTE]
 > 🧳 适合偶尔使用、出差备用、每月用量变化较大的情况。常规包最低为19.9元，另有1元1GB体验包；体验包不可续费，不能把它当作常规套餐起价。
